@@ -18,7 +18,8 @@ module BetfairApiNgRails
           :wallet,
           :rules,
           :rules_has_date,
-          :clarifications
+          :clarifications,
+          :each_way_divisor
         ]
 
         attributes MARKET_DESCRIPTION_ATTRS
